@@ -1,0 +1,16 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.class
+.venv/
+env/
+*.env
+
+# VSCode
+.vscode/
+*.code-workspace
+.history/
+
+# 系统
+.DS_Store
+Thumbs.db
